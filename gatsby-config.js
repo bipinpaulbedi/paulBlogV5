@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Novela by Narative`,
-    pathPrefix: `/paulBlogV5`,
     name: `Narative`,
-    siteUrl: `https://bipinpaulbedi.github.io/paulBlogV5/`,
+    siteUrl: `https://www.bipinpaulbedi.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
