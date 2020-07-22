@@ -1,33 +1,29 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Notions by Bipin`,
+    name: `Bipin`,
     siteUrl: `https://www.bipinpaulbedi.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    description: `bipin paul bedi`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `Welcome to epitome of thoughts by bipin paul bedi.`,
       maxWidth: 652,
     },
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/narative`,
+        url: `https://twitter.com/bipinpaulbedi`,
       },
       {
         name: `github`,
-        url: `https://github.com/narative`,
+        url: `https://github.com/bipinpaulbedi`,
       },
       {
         name: `instagram`,
-        url: `https://instagram.com/narative.co`,
+        url: `https://instagram.com/bipinpaulbedi`,
       },
       {
         name: `linkedin`,
-        url: `https://www.linkedin.com/company/narative/`,
-      },
-      {
-        name: `dribbble`,
-        url: `https://dribbble.com/narativestudio`,
+        url: `https://www.linkedin.com/in/bipinpaulbedi`,
       },
     ],
   },
@@ -48,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `notions by bipin`,
+        short_name: `bipin`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
@@ -57,10 +53,10 @@ module.exports = {
         icon: `src/assets/favicon.png`,
       },
     },
-    {
-      resolve: `gatsby-plugin-netlify-cms`,
-      options: {
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-netlify-cms`,
+    //   options: {
+    //   },
+    // },
   ],
 };
