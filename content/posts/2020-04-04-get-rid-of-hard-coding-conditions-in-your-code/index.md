@@ -2,7 +2,7 @@
 title: Implementing state machine behaviour using F#
 author: Bipin Paul Bedi
 date: '2020-04-04'
-hero: ./images/state-machine.jpg
+hero: ./images/state-machine.webp
 excerpt: get rid of hard coding conditions in your code
 ---
 
@@ -31,7 +31,9 @@ module Process
             | Exit
 ```
 
-![](../.gitbook/assets/osstates.jpg)
+<div className="Image__Small">
+  <img src="./images/OSStates.jpg" alt="OSStates" />
+</div>
 
 Let us create a state machine function that can provide the transition based on current state and event. It will be a simple pattern matching to identify the new state.
 

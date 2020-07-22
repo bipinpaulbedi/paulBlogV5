@@ -2,7 +2,7 @@
 title: Asymptotic computational complexity simplified
 author: Bipin Paul Bedi
 date: '2018-10-20'
-hero: ./images/difficult.jpg
+hero: ./images/big0.webp
 excerpt: discrete representation of algorithm computational complexity.
 ---
 

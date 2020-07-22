@@ -2,7 +2,7 @@
 title: 12 steps to scaled agile - Outside the foundational whitepaper
 author: Bipin Paul Bedi
 date: '2020-04-05'
-hero: ./images/agile.jpg
+hero: ./images/mindset.webp
 excerpt: intelligence is the ability to adapt to change 
 ---
 

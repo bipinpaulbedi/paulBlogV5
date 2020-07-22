@@ -2,7 +2,7 @@
 title: Clean architecture in functional programming
 author: Bipin Paul Bedi
 date: '2019-11-05'
-hero: ./images/CleanArchitecture.jpg
+hero: ./images/clean.jpg
 excerpt: a clean approach to modularising software projects
 ---
 
@@ -17,6 +17,10 @@ In object-oriented architecture, we often struggle towards the ideal of the Port
 This creates value because it enables us adapt to changing business or technology.
 
 Comparing to Clean Coder Clean Architecture : [https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+<div className="Image__Small">
+  <img src="./images/CleanArchitecture.jpg" alt="CleanArchitecture" />
+</div>
 
 * Entities ~ Domain  
 * Use Cases ~ Ports  

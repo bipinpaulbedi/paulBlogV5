@@ -2,7 +2,7 @@
 title: 57 counterproductive software design practices - anti patterns
 author: Bipin Paul Bedi
 date: '2019-03-27'
-hero: ./images/cancel.jpg
+hero: ./images/wrong-way.webp
 excerpt: deciding what not to do is as important as deciding what to do.
 ---
 

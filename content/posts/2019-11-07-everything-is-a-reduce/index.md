@@ -2,7 +2,7 @@
 title: Functional design patterns using rust
 author: Bipin Paul Bedi
 date: '2019-11-07'
-hero: ./images/functional-design-pattern.jpg
+hero: ./images/functional-rust.webp
 excerpt: everything is a reduce
 ---
 

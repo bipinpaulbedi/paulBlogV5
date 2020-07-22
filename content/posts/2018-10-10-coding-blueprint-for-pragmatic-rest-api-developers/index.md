@@ -2,7 +2,7 @@
 title: Developers guide to designing REST endpoints
 author: Bipin Paul Bedi
 date: '2018-10-10'
-hero: ./images/api-development.jpg
+hero: ./images/rest-end-point.webp
 excerpt: Coding blueprint for pragmatic rest api developers.
 ---
 

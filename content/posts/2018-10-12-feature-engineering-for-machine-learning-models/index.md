@@ -2,7 +2,7 @@
 title: L1 & L2 model regularizations techniques
 author: Bipin Paul Bedi
 date: '2018-10-12'
-hero: ./images/machine-learning.jpg
+hero: ./images/regularize.webp
 excerpt: feature engineering for machine learning models.
 ---
 
