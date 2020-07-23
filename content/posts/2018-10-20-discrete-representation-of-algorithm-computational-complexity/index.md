@@ -3,7 +3,7 @@ title: Asymptotic computational complexity simplified
 author: Bipin Paul Bedi
 date: '2018-10-20'
 hero: ./images/big0.webp
-excerpt: discrete representation of algorithm computational complexity.
+excerpt: discrete representation of algorithm computational complexity
 ---
 
 The asymptotic notation is the mathematical representation to analyze algorithm and represent its time \(and/or space\) complexity as its relation to input size. It describes its behavioral characteristics as the input size for the algorithm increases. The algorithm complexity can also be measured by monitoring time and space usage during its actual physical execution. This approach is not ideal for the following reasons

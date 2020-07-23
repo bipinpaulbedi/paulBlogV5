@@ -3,7 +3,7 @@ title: 57 counterproductive software design practices - anti patterns
 author: Bipin Paul Bedi
 date: '2019-03-27'
 hero: ./images/wrong-way.webp
-excerpt: deciding what not to do is as important as deciding what to do.
+excerpt: deciding what not to do is as important as deciding what to do
 ---
 
 Software designers talk about design patterns or the best practices for application designing. The choice is between which mistake is easier to correct: under-doing it or overdoing it.

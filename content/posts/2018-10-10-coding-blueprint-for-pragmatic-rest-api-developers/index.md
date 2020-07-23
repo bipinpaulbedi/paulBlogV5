@@ -3,7 +3,7 @@ title: Developers guide to designing REST endpoints
 author: Bipin Paul Bedi
 date: '2018-10-10'
 hero: ./images/rest-end-point.webp
-excerpt: Coding blueprint for pragmatic rest api developers.
+excerpt: Coding blueprint for pragmatic rest api developers
 ---
 
 As per Wikipedia, Design thinking is the cognitive process from which design concepts \(e.g. ideas for products\) emerge. Design thinking is related to, but is different from problem-solving, decision-making, creativity, sketching and prototyping. During design thinking, the designer's attention oscillates between their understanding of a problem context and their ideas for a solution. New solution ideas lead to a deeper understanding of the problematic context, which in turn triggers more solution ideas.
