@@ -76,7 +76,7 @@ Apart from strangler, an anti-corruption layer implements a facade between new a
 
 **Law of implementation patterns**
 
-![Image Source : Microsoft blog](../.gitbook/assets/microservice2.png)
+![Image Source : Microsoft blog](./images/microservice2.png)
 
 The eight core widely used microservices are that every architect shall know for high-performance systems includes
 
