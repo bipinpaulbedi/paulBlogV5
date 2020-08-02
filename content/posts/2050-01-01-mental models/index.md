@@ -8,3 +8,4 @@ excerpt: the only journey is the journey within
 
 > # <a href="https://brainfuel.substack.com/p/the-first-principle-thinking">The First Principle Thinking</a>
 
+> # <a href="https://brainfuel.substack.com/p/systems-thinking">Systems Thinking</a>
