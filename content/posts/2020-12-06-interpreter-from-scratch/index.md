@@ -38,7 +38,7 @@ The mind map above provides the key components that can be described as:
 
 1) Parser is the foundation and any bug at that level is going to bubble up further down the chain.
 
-2) If F# file order or declaration before use is your concern, then do assess delegates and circular types.
+2) If F# file order or declaration before use is your concern, then do check out delegates and circular types.
 
 3) If you use functional programming since there is very minimal boilerplate code, then your total line of code reduces to approximately 50%. However, this is subjective, but it happened in this particular scenario.
 
