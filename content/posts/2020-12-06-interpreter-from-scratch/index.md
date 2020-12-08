@@ -32,7 +32,7 @@ The mind map above provides the key components that can be described as:
 
 6) Object Structure - This is the evaluated output of AST.
 
-7) Environment - This is the components that provide support for managing state machine during evaluation include access to inbuild functions and closures.
+7) Environment - This is the components that provide support for managing state machine during evaluation including access to inbuild functions and closures.
 
 ## Lessons
 
